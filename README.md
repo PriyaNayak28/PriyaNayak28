@@ -3,9 +3,9 @@ Hi, I'm Priya Nayak! 👋
 I'm a Web Developer with a passion for building dynamic, responsive websites. I work across both frontend and backend, focusing on full-stack applications.
 
 💼 Skills
-Frontend: HTML, CSS, JavaScript, TypeScript
+Frontend: HTML, CSS, JavaScript, TypeScript , React, Angular
 Backend: Node.js, Express.js
-Databases: MongoDB, MySQL
+Databases: MongoDB, MySQL , .Net
 Tools: Git, Bootstrap, REST APIs
 📈 What I'm Learning
 Currently exploring TypeScript and full-stack development with MongoDB and MySQL.
